@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API_Fortics", "API_Fortics\API_Fortics.csproj", "{B740E18C-0564-4A01-A31C-3E6AA373DAC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B740E18C-0564-4A01-A31C-3E6AA373DAC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B740E18C-0564-4A01-A31C-3E6AA373DAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B740E18C-0564-4A01-A31C-3E6AA373DAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B740E18C-0564-4A01-A31C-3E6AA373DAC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18B1325F-5120-4B7E-A474-B1AA3D27A06A}
+	EndGlobalSection
+EndGlobal
